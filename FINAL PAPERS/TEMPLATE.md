@@ -1,22 +1,23 @@
 ## TITLE
 Mariam Sanusi, Fall 2024
 
-##Abstract
+## Abstract
 
 Inclusion Direct is a project designed to foster inclusivity and representation in technology by developing a mentorship platform tailored for underrepresented groups, specifically women of color in tech. This platform bridges the gap between mentors and mentees through a mobile application that combines centralized resources, personalized guidance, and professional networking opportunities within a safe and supportive environment. By addressing systemic exclusion, social isolation, and the lack of mentorship in the tech industry, Inclusion Direct aims to empower marginalized individuals so they thrive professionally and personally. This paper discusses the vision, design strategies, and potential challenges of implementing Inclusion Direct.
 
-##Introduction
+## Introduction
 
 Currently, open-source projects have grown to be a crucial force for fostering collaboration, inclusivity, and innovation. Open-source initiatives are responsible for bringing people together to share knowledge, build towards solutions, and address pressing social challenges. However, as technology continues to evolve, the disparities in access and representation within the industry have become more evident, especially for women of color. Underrepresentation not only limits opportunities for individuals but also stifles the diverse perspectives that drive meaningful progress. Inclusion Direct was created to close this gap using the principles of open-source collaboration to create a platform that will empower and uplift those who have been historically marginalized in tech. In addition, the platform will leverage the openness and adaptability of technology to create an inclusive and supportive space. The creation of Inclusion Direct is rooted in the understanding that mentorship and community are necessary for breaking down barriers and building a more equitable future.
 
-##Vision Statement
+## Vision Statement
 
 Inclusion Direct envisions a future where the field of technology is accessible, inclusive, and empowering for all, specifically for underrepresented groups. This platform seeks to break down systemic barriers, inspire confidence, and enable marginalized individuals to thrive in the tech industry through connections made through the platform. The primary goals of Inclusion Direct include creating an inclusive mentorship network, facilitating meaningful long-term connections, and offering activities that encourage growth and engagement.
 
-##Target Audience
+## Target Audience
 
 The primary audience for Inclusion Direct consists of women of color who are aged over 14 and are looking to be active in the tech industry yet are having difficulty making connections and finding ways of entry. The platform offers the audience direct access to mentors who understand their unique experiences, helping to build confidence and foster career growth. This platform will be accessible through mobile applications and online channels, effectively ensuring availability to users wherever they are. Developers are another crucial audience for this project. Open-source contributors, UI/UX designers, and software engineers who are passionate about social impact will find opportunities to collaborate on improving the platform. With their contributions, the tools and features that drive Inclusion Direct can be formed. By focusing on this audience, Inclusion Direct will not only support those who need mentorship but also create a collaborative ecosystem where developers and users collectively contribute to a shared goal of building an inclusive and equitable tech community.
-##Open Sourcing and Contributors
+
+## Open Sourcing and Contributors
 A key aspect of this project is the usage of Open Source for its development. Open source refers to a software development model where the source code is made freely available for everyone to view, use, modify, and distribute. With this type of approach, a collaborative environment is fostered, and global communities of developers can contribute to the evolution of the project.
 
 As Comino states in “From Planning to Mature: On the Success of Open Source Projects”, the bigger the community, the higher the probability that, within the community, a developer has the skills to fix a bug or improve the software code. This is one of the benefits that come with the usage of open source because not only does the platform improve, but the developer gains the chance to form a connection with the other people who have worked on the project before they did, along with the people who are using the project.
@@ -29,9 +30,9 @@ Additionally, using a transparent codebase will allow stakeholders to track the 
 
 As a result, Inclusion Direct will be hosted on GitHub, which is a widely used platform that supports collaboration through version control, issue tracking, and community-driven feature requests. The infrastructure also allows the project to maintain a well-documented and modular codebase which aligns with Crowston et al. (2007) who emphasized that source code of high quality is a key indicator of software success. With GitHub, contributors can submit pull requests to propose changes which will be visible for all to peer review and allow only the high-quality and vetted code to be added to the project. The Discussions feature also fosters engagement for this project by enabling open conversations about the project, its direction, and challenges.
 
-
 By lowering barriers to entry and fostering collaboration, GitHub will position Inclusion Direct for growth and long-term sustainability.
-Project Plan
+
+## Project Plan
 This workflow map outlines the lifecycle of Inclusion Direct, detailing each phase of its development and maintenance to ensure a robust and scalable mentorship platform. 
 
 The first phase is Tool Selection and Design which occurs from months one to two. This phase focuses on identifying and selecting technologies tailored to the project’s requirements. Tools such as React Native (for cross-platform mobile app development), Node.js (for backend services), and PostgreSQL (for database management) were chosen for their scalability and community support. Open-source libraries will be used to enhance functionality while reducing costs.
