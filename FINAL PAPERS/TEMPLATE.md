@@ -54,34 +54,42 @@ The eighth phase is responsible for the Review and Performance Testing of the pl
 The ninth phase fixates on Ongoing Debt Assessment and Future Maintenance and occurs from the twelfth month well into the future. In this phase, regular assessments will track technical debt, ensuring the platform remains maintainable. Debt is prioritized and managed using tools like SonarQube which is an open-source platform that analyzes code quality to detect bugs and security issues. Future maintenance will have monthly code reviews, quarterly refactoring, and yearly migration updates. This ensures the platform evolves alongside user needs and technological advancements.
 
 By combining cutting-edge tools and best practices, this workflow ensures the development of a high-quality, adaptable, and inclusive platform.
+
 Project Implementation
-The final platform will be an open-source platform made to empower underrepresented groups such as women of color in tech. It will feature a seamless interface for mentees to find mentors, participate in community discussions, and access curated resources. The backend will facilitate secure and efficient data management, while the frontend will provide an intuitive user 
+The final platform will be an open-source platform made to empower underrepresented groups such as women of color in tech. It will feature a seamless interface for mentees to find mentors, participate in community discussions, and access curated resources. The backend will facilitate secure and efficient data management, while the frontend will provide an intuitive user experience. The system will be modular, allowing for the integration of new tools and features as the community grows.
+
+### Key Features
+This platform will include several key features to ensure its functionality and impact. Inclusion Direct will have a Mentorship Matching system which is designed to connect mentees with mentors based on their shared goals, interests, and skills with AI-powered suggestions that will enhance matching accuracy. A Resource Hub will serve as a centralized library of tutorials, career guides, and workshops. It will be dynamically categorized for easy navigation and regular updates. Community forums will also be present to foster engagement and collaboration among members through discussion boards and moderation tools that maintain a safe and inclusive environment. Progress tracking will allow mentees to set goals and monitor their achievements while their mentors can provide them with feedback and evaluate their impact. The last feature is an open-source collaboration portal that will link to GitHub so the developers can contribute code, report issues, and propose enhancements with a transparent backlog that will track project development and feature requests.
+
+3## Front End
+The front end of this project is the user-facing layer. It’s responsible for creating an engaging and accessible interface for users. Using React.js, the platform will deliver a responsive and dynamic experience that adapts seamlessly to various devices and screen sizes. Key features will include authentication, which will be the user-friendly login and registration system to ensure secure access to the platform, and real-time chat, which enables live communication between mentors and mentees. The front end also plays a critical role in routing user actions to the backend and displaying data retrieved from the database.
+
+### Back End
+The backend is the engine of the platform because it handles the business logic and manages interactions between the front end and the database. Node.js with Express is chosen for its scalability and efficient API handling. It facilitates seamless communication, enabling the front end to request and display data without direct database access. Using OAuth for secure login and integrations with third-party services like LinkedIn or Google, Data Processing to handle mentorship matching algorithms, resource retrieval, and real-time updates for chats or discussions, and Error Handling and Logging which Ensures platform stability and tracks issues for future improvements, the backend ensures data consistency and security,
+
+### Team Structure
+The team structure for this project consists of a Core Team, including a Project Manager to oversee milestones, a Technical Lead for architecture consistency, Frontend and Backend Developers to build the interface and server-side logic, Database Engineers for managing our user databases, and QA Specialists for testing and quality assurance. Community Contributors, such as open-source developers, documentation writers, and feedback analysts, will enhance features and user experience. An Advisory Team, including domain experts, AI/ML specialists, and legal advisors, ensures alignment with the mission and compliance with ethical standards. Lastly, a Support Team of community managers and technical support specialists will foster engagement and address user issues, creating a collaborative and sustainable structure.
+
+## Deployment and Testing
+The project will be available through a GitHub Repository which will offer open-source code with detailed documentation for installation and use. Inclusive Direct will also be deployed through a cloud-hosted version for users who prefer direct access without setup. Installation guides will also be provided to give instructions for those who want to self-host or customize the platform.
+To ensure quality, Inclusive Direct will use Unit Testing, Integration Testing, and User Acceptance Testing. Unit testing will verify individual components, such as mentorship matching and chat features, to ensure they function as intended. Integration testing is responsible for focusing on the interactions between the frontend, backend, and database, which helps to ensure a seamless data flow across the system. User acceptance testing (UAT) will have mentors, mentees, and developers to validate that the platform is consistently meeting their needs and expectations effectively.
+Quality will be evaluated using several criteria. Bug reports will be tracked through GitHub, with an emphasis on timely resolution. Feature completeness will measure whether all planned features are implemented and functioning as intended. Performance benchmarks will assess platform responsiveness, load times, and scalability as user activity grows.
+Feedback collection will be an integral part of maintaining and improving the platform. Surveys will be regularly distributed to users to gauge satisfaction and gather suggestions for improvement. GitHub Issues will provide a channel for users to report bugs or propose new features directly. Community discussions through forums and events will offer real-time insights from users and contributors.
+Improvements will be tracked and prioritized using structured mechanisms. GitHub Issues will document bugs, feature requests, and enhancement ideas. Community voting will allow users to upvote feature requests, helping to guide development priorities. Lastly, feedback surveys will capture user experiences and desired changes to ensure the platform evolves to meet their needs.
+
+## Support and Maintenence
+The project will be maintained through regular updates, which will include patches, performance enhancements, and new features rolled out via CI/CD pipelines. To keep the contributor base active and engaged, the project will emphasize recognition, provide clear contribution guidelines, and host community events. Additionally, monitoring tools will be utilized to detect issues and ensure platform uptime, allowing problems to be addressed proactively.
+Technical Debt
+To minimize technical debt, the project will emphasize clean code practices, focusing on readability, modularity, and adherence to coding standards. Comprehensive documentation will ensure that code, features, and updates are well-documented for ease of future development. Regular refactoring will help identify and address inefficiencies before they accumulate, while peer code reviews will catch potential issues early and maintain overall code quality.
+## Future Development
+Looking toward the future, there are plenty of opportunities for feature expansion and enhancement. One method includes integrating more advanced AI algorithms to improve mentorship matching. Another would be incorporating gamification elements like badges to incentivize active community participation, and developing native mobile applications for iOS and Android to enhance accessibility. People are more likely to partake in the usage of the platform with a bit of motivation. Additionally, the open-source community will be encouraged to propose and implement innovative features to continue evolving the platform.
+## Conclusion
+This project aims to build an inclusive tech community through mentorship, resource sharing, and open-source collaboration. By leveraging open-source principles, the platform ensures accessibility, scalability, and continuous innovation. The project will focus on refining initial features, engaging users and contributors, and evolving with the community’s needs. The long-term vision is to foster a more diverse and inclusive technology ecosystem, empowering underrepresented groups and driving systemic change.
+
+##Resources
+Comino, S., Manenti, F. M., & Parisi, M. L. (2007). From planning to mature: On the success of open source projects. Research Policy, 36(10), 1575–1586. https://doi.org/10.1016/j.respol.2007.08.003
 
 
-[Comment_1]: <> (begin your text here)
-
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-
-#### Subheading
-[Comment_3]: <> (begin your text here)
-
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
-
-[Comment_4]: <> (Insert Figure with caption here)
-
-#### Subheading     
-
-[Comment_5]: <> (begin your text here)
-
-__Paragraph heading__         
-
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
-
-
-### Conclusion      
 
 [Comment_7]: <> (begin your text here)
 
