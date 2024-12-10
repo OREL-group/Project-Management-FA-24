@@ -1,5 +1,9 @@
-## TITLE
-Name, Semester, link to personal website.
+## ColLife: An Open-Source Campus Community Platform
+Hyunji Lee, FA2024, www.linkedin.com/in/hyunji45lee.
+
+### Abstract
+
+[Comment_1]: <> (begin your text here)
 
 
 ### Introduction/Headings    
