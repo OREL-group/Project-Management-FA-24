@@ -1,7 +1,9 @@
 ## TITLE
 Mariam Sanusi, Fall 2024
+
 ##Abstract
 Inclusion Direct is a project designed to foster inclusivity and representation in technology by developing a mentorship platform tailored for underrepresented groups, specifically women of color in tech. This platform bridges the gap between mentors and mentees through a mobile application that combines centralized resources, personalized guidance, and professional networking opportunities within a safe and supportive environment. By addressing systemic exclusion, social isolation, and the lack of mentorship in the tech industry, Inclusion Direct aims to empower marginalized individuals so they thrive professionally and personally. This paper discusses the vision, design strategies, and potential challenges of implementing Inclusion Direct.
+
 ##Introduction
 Currently, open-source projects have grown to be a crucial force for fostering collaboration, inclusivity, and innovation. Open-source initiatives are responsible for bringing people together to share knowledge, build towards solutions, and address pressing social challenges. However, as technology continues to evolve, the disparities in access and representation within the industry have become more evident, especially for women of color. Underrepresentation not only limits opportunities for individuals but also stifles the diverse perspectives that drive meaningful progress. Inclusion Direct was created to close this gap using the principles of open-source collaboration to create a platform that will empower and uplift those who have been historically marginalized in tech. In addition, the platform will leverage the openness and adaptability of technology to create an inclusive and supportive space. The creation of Inclusion Direct is rooted in the understanding that mentorship and community are necessary for breaking down barriers and building a more equitable future.
 ##Vision Statement
