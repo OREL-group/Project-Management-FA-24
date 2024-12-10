@@ -97,6 +97,8 @@ ColLife represents an ambitious yet practical solution for improving the college
 
 ### References     
 
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
+Bateman, T. (2021). Using academic social networks to enhance the student experience in online education. Online Learning, 25(4), 295-323. DOI: 10.24059/olj.v25i4.2532 https://olj.onlinelearningconsortium.org/index.php/olj/article/download/2532/1131/11987
 
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
+Etages, Kai Des. “Top Tips for Creating a College App for Mobile.” Guidebook Blog, 11 Apr. 2024, blog.guidebook.com/mobile-guides/top-tips-for-creating-a-college-app-for-mobile/. 
+
+Baron, Michael. “User-Centered Design of Elearning Management Systems: 3 User Expectations vs. Reality Challenges.” eLearning Industry, 12 May 2021, elearningindustry.com/user-centered-design-elearning-management-systems-3-user-expectations-reality-challenges. 
