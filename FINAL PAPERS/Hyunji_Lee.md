@@ -81,6 +81,11 @@ ColLife guarantees that its open-source platform develops effectively while upho
 [Comment_5]: <> (begin your text here)
 
 #### Continuous Integration and Development 
+
+
+[Comment_5]: <> (begin your text here)
+
+#### Contributoor Recognition and Growth
 To motivate and retain contributors, ColLife will implement a comprehensive strategy for contributor recognition and growth:
 A system of badges will be implemented to acknowledge various kinds and degrees of contributions. For a variety of tasks, including bug patches, code contributions, documentation enhancements, and community help, contributors can receive badges. These badges, which highlight their proficiency and commitment to the project, will be shown on user profiles.
 The project blog and newsletter will highlight noteworthy contributions. This may include featuring contributor spotlights, detailing impactful changes made to the platform, or sharing success stories of how contributions have improved the user experience for campus communities.
@@ -89,11 +94,6 @@ Newcomers and seasoned contributors will be paired through a mentorship program.
 Participants will have the chance to showcase their work at webinars or conferences. In addition to acknowledging their accomplishments, this advances their professional development by teaching them public speaking and presentation techniques.
 Based on their regular and significant contributions, contributors will be able to advance from newbie to core contributor under the project's tiered recognition system. As contributors progress, this method will offer a clear path for project growth, which may involve more responsibility or decision-making authority.
 By putting these tactics into practice, ColLife hopes to give its contributors a fulfilling and development-focused atmosphere while maintaining the platform's long-term viability and ongoing enhancement.
-
-[Comment_5]: <> (begin your text here)
-
-#### Contributoor Recognition and Growth
-
 [Comment_5]: <> (begin your text here)
 
 #### Sustainability and Funding
