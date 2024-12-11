@@ -1,4 +1,4 @@
-## TITLE
+# Inclusion Direct
 Mariam Sanusi, Fall 2024
 
 ## Abstract
