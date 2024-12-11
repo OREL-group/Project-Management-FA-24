@@ -88,16 +88,7 @@ Looking toward the future, there are plenty of opportunities for feature expansi
 ## Conclusion
 This project aims to build an inclusive tech community through mentorship, resource sharing, and open-source collaboration. By leveraging open-source principles, the platform ensures accessibility, scalability, and continuous innovation. The project will focus on refining initial features, engaging users and contributors, and evolving with the community’s needs. The long-term vision is to foster a more diverse and inclusive technology ecosystem, empowering underrepresented groups and driving systemic change.
 
-##Resources
+## References
 Comino, S., Manenti, F. M., & Parisi, M. L. (2007). From planning to mature: On the success of open source projects. Research Policy, 36(10), 1575–1586. https://doi.org/10.1016/j.respol.2007.08.003
 
 
-
-[Comment_7]: <> (begin your text here)
-
-
-### References     
-
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
