@@ -33,6 +33,8 @@ As a result, Inclusion Direct will be hosted on GitHub, which is a widely used p
 By lowering barriers to entry and fostering collaboration, GitHub will position Inclusion Direct for growth and long-term sustainability.
 
 ## Project Plan
+![image](https://github.com/user-attachments/assets/9106d65d-7b54-4cfe-958e-54cbc6eaf76b)
+
 This workflow map outlines the lifecycle of Inclusion Direct, detailing each phase of its development and maintenance to ensure a robust and scalable mentorship platform. 
 
 The first phase is Tool Selection and Design which occurs from months one to two. This phase focuses on identifying and selecting technologies tailored to the project’s requirements. Tools such as React Native (for cross-platform mobile app development), Node.js (for backend services), and PostgreSQL (for database management) were chosen for their scalability and community support. Open-source libraries will be used to enhance functionality while reducing costs.
