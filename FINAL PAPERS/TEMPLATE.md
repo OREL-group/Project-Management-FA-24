@@ -3,7 +3,7 @@ Jae Ji, FA2024
 
 In this paper, I will present a project called GrabNGrocery, a location-based app designed to improve grocery shopping for college students, young adults, and underprivileged communities. This app will emphasize three key development principles: user-centered design, community-focused innovation, and sustainable workflow integration.
 
-### Introduction/Headings    
+### Introduction 
 
 In today’s fast-paced world, grocery shopping is often a time-consuming and stressful task, particularly for college students, young adults, and vulnerable populations. Balancing tight budgets, busy schedules, and trying to make healthier, cost-effective choices creates a challenging everyday routine for these groups. As a college student myself, I’ve experienced firsthand the struggles of managing grocery expenses, finding affordable ingredients, and navigating the challenges of cooking all on a tight schedule. These personal challenges inspired me to develop a solution that not only addresses my own needs but also supports others in similar situations, particularly underprivileged communities.
 My project aims to create a revolutionary grocery shopping app that combines personalization, price transparency, and location-based convenience. By bridging the information gap between shoppers and local grocery stores, this app can empower users to efficiently find the best deals on ingredients and products they need. It also encourages informed decision-making, reduces food waste, and supports local businesses. Whether it’s a student trying to manage their grocery expenses, a young adult learning to cook for the first time, or someone on a limited income seeking deals, this app simplifies the process, making grocery shopping more accessible and efficient for all.
@@ -18,19 +18,22 @@ College students are a unique group in that they face significant financial cons
 
 #### Research Highlights
 
+Figure 1 shows that convenience is the most significant motivator for students, followed by time-saving, discounts, and recommendations. This data highlights the importance of creating an app that is both easy to use and provides practical solutions for students:
+
 <figure>
   <img src="https://drive.google.com/uc?export=view&id=1NSpyeew1XY8xJq3VFLiXAzwH8G721w7q" alt="Image description">
-  <figcaption><b>Figure 1 shows that convenience is the most significant motivator for students, followed by time-saving, discounts, and recommendations. This data highlights the importance of creating an app that is both easy to use and provides practical solutions for students. </b> one</figcaption>
 </figure>
+
+Figure 2 illustrates the top concerns among students regarding grocery apps, including the quality of produce, delivery reliability, and privacy. Addressing these concerns will be key in building trust and encouraging broader adoption:
 
 <figure>
   <img src="https://drive.google.com/uc?export=view&id=1t29N2tfAgmPPF-Zj-RSOImBNuX_CBagN" alt="Image description">
-  <figcaption><b>Figure 2 illustrates the top concerns among students regarding grocery apps, including the quality of produce, delivery reliability, and privacy. Addressing these concerns will be key in building trust and encouraging broader adoption. </b> one</figcaption>
 </figure>
+
+Figure 3 demonstrates the frequency of mobile grocery app usage among students, with most respondents using the app weekly or monthly. This indicates that while apps are integrated into students' routines, further efforts are needed to increase daily engagement.
 
 <figure>
   <img src="https://drive.google.com/uc?export=view&id=1TyiEes3RdwSt_xpVqLQOUpq95XWBRD9M" alt="Image description">
-  <figcaption><b>Figure 3 demonstrates the frequency of mobile grocery app usage among students, with most respondents using the app weekly or monthly. This indicates that while apps are integrated into students' routines, further efforts are needed to increase daily engagement. </b> one</figcaption>
 </figure>
 
 #### Target Audience and Demographics
@@ -144,8 +147,7 @@ Springer Singapore. https://doi.org/10.1007/978-981-15-5224-3_4.
 
 Frohlke, M., & Pettersson, L. (2015). What factors influence a consumer’s intention to 
 use a mobile device in the grocery shopping process?. 
-https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=7439512&file
-OId=739516.
+https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=7439512&fileOId=739516.
 
 Henry, L. (2017). Understanding food insecurity among college students: Experience, 
 motivation, and local solutions. American Anthropological Association, 41(1), 
