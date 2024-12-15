@@ -20,7 +20,17 @@ College students are a unique group in that they face significant financial cons
 
 <figure>
   <img src="https://drive.google.com/uc?export=view&id=1NSpyeew1XY8xJq3VFLiXAzwH8G721w7q" alt="Image description">
-  <figcaption><b>Figure 1.</b> one</figcaption>
+  <figcaption><b>Figure 1 shows that convenience is the most significant motivator for students, followed by time-saving, discounts, and recommendations. This data highlights the importance of creating an app that is both easy to use and provides practical solutions for students. </b> one</figcaption>
+</figure>
+
+<figure>
+  <img src="https://drive.google.com/uc?export=view&id=1t29N2tfAgmPPF-Zj-RSOImBNuX_CBagN" alt="Image description">
+  <figcaption><b>Figure 2 illustrates the top concerns among students regarding grocery apps, including the quality of produce, delivery reliability, and privacy. Addressing these concerns will be key in building trust and encouraging broader adoption. </b> one</figcaption>
+</figure>
+
+<figure>
+  <img src="https://drive.google.com/uc?export=view&id=1TyiEes3RdwSt_xpVqLQOUpq95XWBRD9M" alt="Image description">
+  <figcaption><b>Figure 3 demonstrates the frequency of mobile grocery app usage among students, with most respondents using the app weekly or monthly. This indicates that while apps are integrated into students' routines, further efforts are needed to increase daily engagement. </b> one</figcaption>
 </figure>
 
 #### Target Audience and Demographics
@@ -66,7 +76,9 @@ Another crucial principle is agile development. This approach to project managem
 Workflow mapping plays a critical role in the development and deployment of this project, ensuring that all tasks are organized, tracked, and executed efficiently. A workflow map serves as a blueprint, breaking down the project into smaller, manageable units while providing a clear view of the overall process. The workflow starts with research and ideation, progresses through development and testing phases, and culminates in user feedback and continuous updates.
 
 My workflow map:
-(image)
+<figure>
+  <img src="https://drive.google.com/uc?export=view&id=1CdClVuu8vXXKrhkySMwxi8X2BVu-StM3" alt="Image description">
+</figure>
 
 To begin, the workflow identifies initial stages such as researching target users and brainstorming design ideas based on their needs. From there, the process transitions to designing the app, where the user interface and key functionalities are drafted and refined. A crucial step follows, involving design approval from stakeholders or team leads. Once approved, the project advances to development, separated into two sprints that focus on both core features and user interface/user experience (UI/UX) development. Each sprint ensures step-by-step progress while allowing room for adjustments based on feedback or emerging priorities.
 
@@ -105,12 +117,6 @@ Comprehensive and accessible documentation is important for engaging contributor
 - Community Engagement and Recognition
 
 Building a sense of community requires active engagement and recognition. Contributors who make significant improvements, such as developing a key feature or addressing critical bugs, will be publicly recognized on GitHub or within the Discord community. To incentivize participation, we will organize events like virtual hackathons or coding challenges. These events will encourage innovation and provide opportunities for developers to collaborate. For users, surveys, feedback campaigns, and beta testing programs will give them a voice in shaping the app’s development.
-
-
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
-
 
 ### Conclusion      
 
