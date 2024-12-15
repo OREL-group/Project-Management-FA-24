@@ -1,5 +1,9 @@
-## TITLE
+## GrabNGrocery - a convenient grocery app 
+Jae Ji
+Fall 2024
 Name, Semester, link to personal website.
+
+In this paper, I will present a project called GrabNGrocery, a location-based app designed to improve grocery shopping for college students, young adults, and underprivileged communities. This app will emphasize three key development principles: user-centered design, community-focused innovation, and sustainable workflow integration.
 
 
 ### Introduction/Headings    
