@@ -3,7 +3,6 @@ Jae Ji, FA2024
 
 In this paper, I will present a project called GrabNGrocery, a location-based app designed to improve grocery shopping for college students, young adults, and underprivileged communities. This app will emphasize three key development principles: user-centered design, community-focused innovation, and sustainable workflow integration.
 
-
 ### Introduction/Headings    
 
 In today’s fast-paced world, grocery shopping is often a time-consuming and stressful task, particularly for college students, young adults, and vulnerable populations. Balancing tight budgets, busy schedules, and trying to make healthier, cost-effective choices creates a challenging everyday routine for these groups. As a college student myself, I’ve experienced firsthand the struggles of managing grocery expenses, finding affordable ingredients, and navigating the challenges of cooking all on a tight schedule. These personal challenges inspired me to develop a solution that not only addresses my own needs but also supports others in similar situations, particularly underprivileged communities.
@@ -18,7 +17,11 @@ The development of GrabNGrocery is informed by a comprehensive understanding of 
 College students are a unique group in that they face significant financial constraints and time pressures for the first time in their lives, making mobile grocery shopping apps an appealing solution. My research found that out of a total sample size of 150 students, convenience (85 respondents) and time-saving (65 respondents) are the primary motivators for students using grocery apps. This aligns with existing literature as well (Frohlke & Pettersson, 2015), which emphasizes the need for simple, accessible solutions to manage grocery shopping within busy schedules. With students trying to balance academics, work, and social life, the ability to quickly order groceries without leaving campus or waiting in long lines is a major benefit. Financially, students often work with limited budgets, and discounts or promotions play a key role in app adoption, with 40 respondents identifying them as a major motivator. However, concerns about the quality of produce and delivery reliability, noted by 33.9% of participants, highlight the need for apps to build trust through transparent tracking systems and clear communication about product quality. Usability issues were also discussed, with respondents expressing frustration over app glitches, slow loading times, and difficult navigation. These challenges suggest that user experience is a major pain point, particularly for students who may not be as tech-savvy or patient with complex interfaces. The lack of accessibility features like voice navigation and larger text sizes further highlights the need for inclusive design. These insights will guide GrabNGrocery's development, ensuring the app addresses these concerns through user-centered design and accessibility features, making it more inclusive and appealing to a wide range of students, including those with disabilities. 
 
 #### Research Highlights
-(images)
+
+<figure>
+  <img src="https://drive.google.com/uc?export=view&id=1NSpyeew1XY8xJq3VFLiXAzwH8G721w7q" alt="Image description">
+  <figcaption><b>Figure 1.</b> one</figcaption>
+</figure>
 
 #### Target Audience and Demographics
 
@@ -108,20 +111,18 @@ Building a sense of community requires active engagement and recognition. Contri
 | :--: |
 | <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
-[Comment_4]: <> (Insert Figure with caption here)
 
 ### Conclusion      
 
 GrabNGrocery aims to revolutionize the grocery shopping experience for college students, young adults, and underprivileged communities by addressing challenges such as tight budgets, busy schedules, and the need for healthier, cost-effective choices. By prioritizing user-centered design, the app provides a seamless, personalized experience that empowers users to make informed decisions, save money, and shop efficiently.
-Through community-focused innovation and sustainable workflow integration, this project bridges the gap between shoppers and local grocery stores while fostering collaboration and adaptability. By promoting financial stability, reducing food waste, and supporting healthier lifestyles, this project demonstrates the power of technology to create meaningful, lasting solutions for diverse user groups.
 
+Through community-focused innovation and sustainable workflow integration, this project bridges the gap between shoppers and local grocery stores while fostering collaboration and adaptability. By promoting financial stability, reducing food waste, and supporting healthier lifestyles, this project demonstrates the power of technology to create meaningful, lasting solutions for diverse user groups.
 
 
 ### References     
 
 Blaustein, K. M. (2021). College Guide to Grocery Shopping. UWIRE Text, 1. 
-https://link.gale.com/apps/doc/A678089871/AONE?u=anon~37400527&sid=goog
-leScholar&xid=a581738f. 
+https://link.gale.com/apps/doc/A678089871/AONE?u=anon~37400527&sid=googleScholar&xid=a581738f. 
 
 Cheung, C. M., & Thadani, D. R. (2012). The impact of electronic word-of-mouth  
 communication: A literature analysis and integrative model. Decision Support 
@@ -134,24 +135,30 @@ Fagerstrom, A., Eriksson, N., & Sigurdsson, V. (2021). The Use of Mobile Apps to
 Facilitate Customers’ Choice-Making When Grocery Shopping. In Smart Trends 
 in Computing and Communications: Proceedings of SmartCom 2020 (pp. 39-47). 
 Springer Singapore. https://doi.org/10.1007/978-981-15-5224-3_4.
+
 Frohlke, M., & Pettersson, L. (2015). What factors influence a consumer’s intention to 
 use a mobile device in the grocery shopping process?. 
 https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=7439512&file
 OId=739516.
+
 Henry, L. (2017). Understanding food insecurity among college students: Experience, 
 motivation, and local solutions. American Anthropological Association, 41(1), 
 6–19. https://doi.org/10.1111/napa.12108.
+
 Kim, H. W., Xu, Y., & Koh, J. (2004). A multivariate analysis of the factors influencing the 
 adoption of mobile data services. Journal of the Academy of Marketing Science, 
 32(3), 350-362. https://doi.org/10.1177/0092070304263332
+
 Mauch, C. E., Laws, R. A., Prichard, I., Maedar, A. J., Wycherley, T. P., & Golley, R. K. 
 (2021). Commercially available apps to support healthy family meals: User 
 testing of app utility, acceptability, and engagement. JMIR Publications, 9(5). 
 https://doi.org/10.2196/22990.
+
 Shukla, A., & Sharma, S. K. (2018). Evaluating consumers’ adoption of mobile 
 technology for grocery shopping: An application of Technology Acceptance 
 Mode. Management Development Institute (MDI), 22(2), 185–198. 
 https://doi.org/10.1177/0972262918766136. 
+
 Shoppers flock to use new shopping app showing availability of scarce supplies. (2013, 
 June 11). Associated Press. https://www.youtube.com/watch?v=KhcTUq2OQto.
 
