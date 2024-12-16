@@ -1,6 +1,7 @@
 Sophia Bustos   
 IS 340   
-10 December, 2024   
+10 December, 2024  
+Fall 2024
 **Workflow in Credit Card Approval Project**
 
 ## Project Vision   
