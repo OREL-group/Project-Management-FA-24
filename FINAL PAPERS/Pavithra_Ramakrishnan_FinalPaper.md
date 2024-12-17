@@ -38,7 +38,7 @@ These datasets provide varied perspectives, vehicle types, and environmental con
 
 ### Development Workflow      
 
-[Comment_7]: <> (The project uses three diverse datasets to train and validate the model: The project development follows a structured plan:
+[Comment_8]: <> (The project uses three diverse datasets to train and validate the model: The project development follows a structured plan:
 1: Initial Setup and Data Collection
 Set up Google Colab with GPU.
 Install YOLO and necessary dependencies.
@@ -62,31 +62,31 @@ Conduct a final review with peers (Kaleem and Hari) for feedback.)
 
 #### Key Features    
 
-[Comment_5]: <> (The system prioritizes real-time performance by processing live camera feeds with minimal delay and displaying results instantaneously. It is designed for scalability, enabling deployment across various environments, locations, and hardware configurations. A user-friendly Flask-based dashboard provides security teams with a clear visualization of vehicle detection results. Furthermore, the model's adaptability is ensured through the ability to retrain it with new data, allowing it to accommodate evolving conditions and variations in vehicles, maintaining high accuracy over time.)
+[Comment_9]: <> (The system prioritizes real-time performance by processing live camera feeds with minimal delay and displaying results instantaneously. It is designed for scalability, enabling deployment across various environments, locations, and hardware configurations. A user-friendly Flask-based dashboard provides security teams with a clear visualization of vehicle detection results. Furthermore, the model's adaptability is ensured through the ability to retrain it with new data, allowing it to accommodate evolving conditions and variations in vehicles, maintaining high accuracy over time.)
 
 #### Addressing Technical Debt    
 
-[Comment_5]: <> (Technical debt in this project primarily arises from tool dependencies and scalability requirements. Frequent updates to tools like YOLO and OpenCV may introduce breaking changes, necessitating regular code reviews and a modular architecture to minimize disruption. The current web interface, built with Flask, may require replacement with a more scalable framework like FastAPI to handle increased traffic. Furthermore, transitioning to cloud solutions for real-time processing will incur data processing costs that require careful financial planning. Mitigating long-term technical debt involves maintaining clear documentation, automating workflows with CI/CD processes, and adopting a microservices architecture for improved flexibility and maintainability.)
+[Comment_10]: <> (Technical debt in this project primarily arises from tool dependencies and scalability requirements. Frequent updates to tools like YOLO and OpenCV may introduce breaking changes, necessitating regular code reviews and a modular architecture to minimize disruption. The current web interface, built with Flask, may require replacement with a more scalable framework like FastAPI to handle increased traffic. Furthermore, transitioning to cloud solutions for real-time processing will incur data processing costs that require careful financial planning. Mitigating long-term technical debt involves maintaining clear documentation, automating workflows with CI/CD processes, and adopting a microservices architecture for improved flexibility and maintainability.)
 
 #### Target Audience
 
-[Comment_5]: <> (Security Professionals: Responsible for monitoring access to sensitive areas.
+[Comment_11]: <> (Security Professionals: Responsible for monitoring access to sensitive areas.
 Institutions with High Security Needs: Airports, government buildings, gated communities, and corporate facilities.
 )
 
 #### Community Engagement
 
-[Comment_5]: <> (To sustain and improve the project, the following strategies will be used:
+[Comment_12]: <> (To sustain and improve the project, the following strategies will be used:
 Outreach: Collaborate with security technology providers and attend security conferences.
 Open-Source Contributions: Engage with the open-source community to attract skilled developers and enhance features.
 Feedback Loop: Partner with security firms to test the system, gather feedback, and refine the pipeline.)
 
 ### Conclusion
-[Comment_8]: <> (This project delivers a real-time, scalable vehicle detection solution tailored for security applications. By leveraging advanced YOLO models, OpenCV, and a lightweight web interface, the system efficiently identifies unauthorized vehicles, reducing security risks and operational overhead. The open-source approach ensures continuous improvement and adaptability, making it a practical and future-proof solution for access control and monitoring.)
+[Comment_13]: <> (This project delivers a real-time, scalable vehicle detection solution tailored for security applications. By leveraging advanced YOLO models, OpenCV, and a lightweight web interface, the system efficiently identifies unauthorized vehicles, reducing security risks and operational overhead. The open-source approach ensures continuous improvement and adaptability, making it a practical and future-proof solution for access control and monitoring.)
 
 ### References     
 
-[Comment_8]: <> (Developers, T. (2022). TensorFlow. Zenodo.
+[Comment_14]: <> (Developers, T. (2022). TensorFlow. Zenodo.
 Faridoon, A., & Imran, M. (2021). Big Data Storage Tools Using NoSQL Databases. Computing & Informatics.
 Lenarduzzi, V., et al. (2021). Technical Debt Prioritization. Journal of Systems and Software.
 )
