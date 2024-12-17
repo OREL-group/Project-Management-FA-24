@@ -1,39 +1,56 @@
-## TITLE
-Name, Semester, link to personal website.
+Real-Time Vehicle Detection System Using YOLO for Unauthorized Vehicles
+Lina Chen, Fall 2024, Personal Website Link
 
+Introduction
+Project Goals
+[Comment_3]: <> (This project focuses on three major goals:
 
-### Introduction/Headings    
+Accurate Detection: Identify unauthorized vehicles using diverse datasets of American license plates.
+Real-Time Processing: Ensure low-latency processing of live camera feeds.
+Scalability: Provide a solution that can scale seamlessly across different locations and environmental conditions.)
 
-[Comment_1]: <> (begin your text here)
+Figure 1. Real-time vehicle detection pipeline. Store image as an issue or in the local directory.
+Development Workflow
+[Comment_5]: <> (The project follows a structured development process:
 
+Week 1: Initial Setup and Data Collection
 
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
+Set up Google Colab with GPU and install YOLO dependencies.
+Download and explore datasets:
+Cars Video Object Tracking
+Vehicle Detection Image Dataset
+Vehicle Detection Sample and Output Videos
+Week 2: Data Preparation and Initial Training
 
-#### Subheading
-[Comment_3]: <> (begin your text here)
+Annotate and clean the data if needed.
+Train YOLOv5 on a small subset to validate the setup.
+Week 3: Model Training and Optimization
 
-| ![](https://user-images.githubusercontent.com/38323286/233691025-55deb1db-3e35-4589-8c55-4f859f8e41cd.jpg) | 
-| :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
+Train the model using the full dataset and fine-tune hyperparameters.
+Perform error analysis to improve performance.
+Week 4: Testing and Integration
 
-[Comment_4]: <> (Insert Figure with caption here)
+Test the model with unseen data and integrate it into a real-time video pipeline.
+Develop a Flask-based web interface to display detection results.
+Week 5: Final Adjustments and Documentation
 
-#### Subheading     
+Optimize for latency and accuracy.
+Document the process and prepare a final report with feedback from Kaleem and Hari.)
+Key Features
+[Comment_6]: <> (The real-time vehicle detection system includes:
 
-[Comment_5]: <> (begin your text here)
+Real-Time Detection: Processes live video feeds with minimal delay.
+User-Friendly Web Interface: Built using Flask to display results in real time.
+Scalable Architecture: Can adapt to different locations and environmental conditions.
+Adaptability: Supports model retraining to account for evolving vehicle types and conditions.)
+Conclusion
+References
+[Comment_8]: <> (Developers, T. (2022). TensorFlow. Zenodo.
+Faridoon, A., & Imran, M. (2021). Big Data Storage Tools Using NoSQL Databases. Computing & Informatics.
+Lenarduzzi, V., et al. (2021). Technical Debt Prioritization. Journal of Systems and Software.
+Kaggle Datasets:
 
-__Paragraph heading__         
+Cars Video Object Tracking: https://www.kaggle.com/datasets/trainingdatapro/cars-video-object-tracking
+Vehicle Detection Image Dataset: https://www.kaggle.com/datasets/pkdarabi/vehicle-detection-image-dataset
+Vehicle Detection Sample and Output Videos: https://www.kaggle.com/datasets/vivek603/vehicle-detection-sample-and-output-videos)
 
-[Comment_6]: <> (begin your text two spaces after the last underscore in the previous line)
-
-
-### Conclusion      
-
-[Comment_7]: <> (begin your text here)
-
-
-### References     
-
-[Comment_8]: <> (begin your reference list here. Cite as author, year in main text. Reference link should correpond with link in Comment 2  Use any format you wish -- MLA, APA, etc.)
-
-Cite as the form (Lastname, 2023) in the body of your text. List reference citation in this section. 
