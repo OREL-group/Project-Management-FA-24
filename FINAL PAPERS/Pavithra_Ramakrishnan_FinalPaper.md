@@ -20,8 +20,8 @@ This project aims to deliver a real-time vehicle detection platform capable of a
 
 This system must accurately detect and identify unauthorized vehicles by leveraging diverse datasets of American license plates to ensure high precision. Real-time processing capabilities are crucial to minimize latency in live video feeds, enabling timely responses to security threats. The system should be highly scalable to accommodate varying locations, hardware configurations, and environmental conditions. Finally, a user-friendly web interface for displaying real-time detection results is essential to enhance usability for security teams, providing them with a clear and accessible overview of the system's output.
 
-| ![Workflow]() [Copy of Open Canvas (IS 340).pptx (1) (3).pdf](https://github.com/user-attachments/assets/e06d8495-7cdc-4100-bd2d-fb212bcf8c7c)
-attachments/files/18170813/Copy.of.Open.Canvas.IS.340.pptx.1.3.pdf)
+| ![Workflow]() [Copy of Open Canvas (IS 340).pptx (1) (3).pdf](https://github.com/user-attachments/assets/be90f944-c4df-4495-acb5-1d830f8b8dcd)
+ub.com/user-attachments/assets/e06d8495-7cdc-4100-bd2d-fb212bcf8c7c)
 | :--: |  
 | **Figure 2.** Open Canvas Planning Diagram. |  
 
