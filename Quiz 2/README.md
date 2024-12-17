@@ -19,8 +19,8 @@ You will working on [the Quiz #2 project board](https://github.com/orgs/OREL-gro
 * refer to the lecture slides from the lecture for more information.
 
 
-4) create a final issue through the [repository issue template](https://github.com/OREL-group/Project-Management/issues/new/choose). Please follow the prompts to answer questions about your issue. 
+4) create a final issue as a [repository issue](https://github.com/OREL-group/Project-Management/issues/new/choose). Please follow the prompts to answer questions about your issue. 
 
-* this should be a good first issue for your final project (make an attempt to answer this, even if you have not worked out the details yet).
+* this should be a good first issue for your final project (make an attempt to discuss this, even if you have not worked out the details yet).
 
 * assign and label your issue as appropriate.

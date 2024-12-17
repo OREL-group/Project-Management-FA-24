@@ -3,9 +3,6 @@
 Dr. Bradly Alicea
 [balicea@illinois.edu](mailto:balicea@illinois.edu)
 
-Pavithra Ramakrishnan
-dr23@illinois.edu
-
 Syllabus [link](https://github.com/OREL-group/Project-Management/tree/main/syllabus.pdf)
 
 ### Course Objectives
