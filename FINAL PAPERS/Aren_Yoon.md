@@ -58,3 +58,8 @@ The project follows open-source principles to ensure collaboration and transpare
 
 ### Conclusion
 This project delivers a database-driven platform that improves access to academic and career resources for college students, particularly underserved groups. Its personalized features, intuitive design, and open-source foundation ensure scalability, transparency, and continuous improvement. By addressing information gaps, the platform creates a more equitable environment where all students can confidently pursue their goals.
+
+### References
+- Nagle, T., & Sammon, D. (2020). The role of open source in modern software development. Journal of Open Innovation: Technology, Market, and Complexity, 6(3), 85.
+- Yan, Z., Wang, W., & Ye, J. (2022). A user-centered design approach for database-driven platforms: Case study and implementation. Journal of Systems and Software, 190, 111320.
+
