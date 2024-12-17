@@ -1,21 +1,17 @@
 ## Real-Time Vehicle Detection System Using YOLO for Unauthorized Vehicles
 Pavithra Ramakrishnan, Fall 2024, [link to personal website](https://www.linkedin.com/in/pavithramakrishnan/).
 
-
 ### Introduction
 
 [Comment_1]: <> (The rise in security concerns across critical infrastructures such as gated communities, airports, and government buildings necessitates advanced monitoring solutions. Existing systems often fail to provide efficient, real-time identification of unauthorized vehicles due to limitations in accuracy and processing speed. This project addresses these challenges by developing a state-of-the-art vehicle detection system that leverages the YOLO object detection framework. The system identifies unauthorized vehicles entering sensitive locations through live camera feeds, offering a scalable, adaptable, and user-friendly solution. By utilizing real-time processing and advanced machine learning algorithms, this project improves access control efficiency and overall security.)
 
-
-[Comment_2]: <> (An example of a reference in paper text, cite in Reference list -- see Comment 8)
-
 #### Vision Statement
-[Comment_3]: <> (This project aims to deliver a real-time vehicle detection platform capable of accurately identifying unauthorized vehicles with minimal delay. The system integrates advanced machine learning techniques (YOLO) and efficient algorithms to process video feeds, providing actionable insights for security professionals. The solution prioritizes scalability and adaptability, ensuring seamless deployment across diverse environments and conditions. Ultimately, the project enhances security protocols while maintaining operational efficiency and reducing manual intervention.)
+[Comment_2]: <> (This project aims to deliver a real-time vehicle detection platform capable of accurately identifying unauthorized vehicles with minimal delay. The system integrates advanced machine learning techniques - YOLO and efficient algorithms to process video feeds, providing actionable insights for security professionals. The solution prioritizes scalability and adaptability, ensuring seamless deployment across diverse environments and conditions. Ultimately, the project enhances security protocols while maintaining operational efficiency and reducing manual intervention.)
 
 | ![Workflow](https://github.com/user-attachments/assets/615d4a47-192c-4fbc-8df1-cc53be64828c)
  | 
 | :--: |
-| <b>Figure 1.</b> Caption test. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
+| <b>Figure 1.</b> Workflow Diagram. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |   
 
 [Comment_4]: <> (Insert Figure with caption here)
 
@@ -23,7 +19,7 @@ Pavithra Ramakrishnan, Fall 2024, [link to personal website](https://www.linkedi
 
 [Comment_5]: <> (This system must accurately detect and identify unauthorized vehicles by leveraging diverse datasets of American license plates to ensure high precision. Real-time processing capabilities are crucial to minimize latency in live video feeds, enabling timely responses to security threats. The system should be highly scalable to accommodate varying locations, hardware configurations, and environmental conditions. Finally, a user-friendly web interface for displaying real-time detection results is essential to enhance usability for security teams, providing them with a clear and accessible overview of the system's output.)
 
-__Technology Stack__         
+#### Technology Stack      
 
 [Comment_6]: <> (The technology stack was selected based on its reliability, scalability, and suitability for real-time applications. YOLO provides state-of-the-art object detection capabilities, making it ideal for identifying license plates quickly and accurately. OpenCV facilitates efficient video processing and seamless integration with the YOLO model. Flask enables the creation of a lightweight and user-friendly web interface for displaying real-time detection results. Finally, Google Colab offers a powerful environment with GPU support, enabling rapid and efficient model training and experimentation. This combination of tools ensures a robust and effective system for license plate recognition.)
 
@@ -44,11 +40,11 @@ Set up Google Colab with GPU.
 Install YOLO and necessary dependencies.
 Download and explore datasets, including initial visualization and structure analysis.
 2: Data Preparation and Initial Training
-Annotate and clean data where needed (using LabelImg).
+Annotate and clean data where needed using LabelImg.
 Configure YOLO training scripts.
 Train the model on a subset of data to verify setup and resolve initial issues.
 3: Model Training and Optimization
-Train the model with the full dataset and fine-tune hyperparameters (e.g., learning rate, epochs).
+Train the model with the full dataset and fine-tune hyperparameters e.g., learning rate, epochs.
 Evaluate the model on validation data and perform error analysis.
 Implement data augmentation techniques to improve performance.
 4: Testing and Integration
@@ -58,7 +54,7 @@ Develop a basic Flask-based web interface to display results.
 5: Final Adjustments and Documentation
 Optimize latency and ensure the accuracy of the detection pipeline.
 Document processes, including data preprocessing, model training, and integration.
-Conduct a final review with peers (Kaleem and Hari) for feedback.)
+Conduct a final review. )
 
 #### Key Features    
 
@@ -71,7 +67,7 @@ Conduct a final review with peers (Kaleem and Hari) for feedback.)
 #### Target Audience
 
 [Comment_11]: <> (Security Professionals: Responsible for monitoring access to sensitive areas.
-Institutions with High Security Needs: Airports, government buildings, gated communities, and corporate facilities.
+Institutions with high High-Security Needs: Airports, government buildings, gated communities, and corporate facilities.
 )
 
 #### Community Engagement
