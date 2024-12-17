@@ -1,5 +1,5 @@
 ## College Resource Hub Database Design
-Aren Yoon, IS 340, Fall 2024
+Aren Yoon, IS 340, https://www.linkedin.com/in/arenyoon/
 
 ### Summary
 The College Resource Hub Database Design project is a database-driven approach that helps college students to locate resources needed easily and efficiently for academic and career success. This will benefit a wide range of students, including first-generation students and those with limited access to information, by offering integrated campus resources with customized functionality.
