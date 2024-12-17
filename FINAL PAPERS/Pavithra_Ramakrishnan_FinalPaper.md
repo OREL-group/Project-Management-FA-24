@@ -1,5 +1,6 @@
 ## Real-Time Vehicle Detection System Using YOLO for Unauthorized Vehicles  
 Pavithra Ramakrishnan, Fall 2024, [link to personal website](https://www.linkedin.com/in/pavithramakrishnan/).  
+Google collab final project file: https://github.com/OREL-group/Project-Management/blob/main/finalproject_images/License_Plate_Recognition.ipynb
 
 ---
 
