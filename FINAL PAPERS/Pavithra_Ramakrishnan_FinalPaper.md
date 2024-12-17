@@ -20,11 +20,6 @@ This project aims to deliver a real-time vehicle detection platform capable of a
 
 This system must accurately detect and identify unauthorized vehicles by leveraging diverse datasets of American license plates to ensure high precision. Real-time processing capabilities are crucial to minimize latency in live video feeds, enabling timely responses to security threats. The system should be highly scalable to accommodate varying locations, hardware configurations, and environmental conditions. Finally, a user-friendly web interface for displaying real-time detection results is essential to enhance usability for security teams, providing them with a clear and accessible overview of the system's output.
 
-| ![Workflow]() [Copy of Open Canvas (IS 340).pptx (1) (3).pdf](https://github.com/user-attachments/assets/be90f944-c4df-4495-acb5-1d830f8b8dcd)
-ub.com/user-attachments/assets/e06d8495-7cdc-4100-bd2d-fb212bcf8c7c)
-| :--: |  
-| **Figure 2.** Open Canvas Planning Diagram. |  
-
 ---
 
 #### Technology Stack  
@@ -86,6 +81,20 @@ The project development follows a structured plan:
 #### Key Features  
 
 The system prioritizes real-time performance by processing live camera feeds with minimal delay and displaying results instantaneously. It is designed for scalability, enabling deployment across various environments, locations, and hardware configurations. A user-friendly Flask-based dashboard provides security teams with a clear visualization of vehicle detection results. Furthermore, the model's adaptability is ensured through the ability to retrain it with new data, allowing it to accommodate evolving conditions and variations in vehicles, maintaining high accuracy over time.
+
+#### Status
+
+Figure 1:
+<img width="684" alt="Screenshot 2024-12-17 at 2 25 49 PM" src="https://github.com/user-attachments/assets/9b7a00e0-adac-46ae-adad-43c0758beec1" />
+Description: This code identifies the status of object detection, specifying whether any license plates were detected within each frame, along with inference and processing times.
+
+Figure 2:
+<img width="641" alt="Screenshot 2024-12-17 at 2 29 01 PM" src="https://github.com/user-attachments/assets/d03e7788-27b0-4a6d-8198-b290568ebcdf" />
+Description: The code snippet showcases a successful detection of a license plate with its bounding box coordinates, confidence scores, and extracted license plate number using OCR.
+
+Figure 3:
+<img width="641" alt="Screenshot 2024-12-17 at 2 30 38 PM" src="https://github.com/user-attachments/assets/a77ab508-1b9f-4136-9b2e-142b0fed515e" />
+Description: This code snippet demonstrates tracking of detected vehicles and license plates across multiple frames, showing consistent bounding boxes, confidence scores, and evolving OCR results.
 
 ---
 
