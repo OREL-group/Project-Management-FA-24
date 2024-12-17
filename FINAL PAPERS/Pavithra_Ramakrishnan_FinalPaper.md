@@ -86,15 +86,15 @@ The system prioritizes real-time performance by processing live camera feeds wit
 
 | ![Status](https://github.com/user-attachments/assets/9b7a00e0-adac-46ae-adad-43c0758beec1) |  
 | :--: |  
-| **Figure 1.** This code identifies the status of object detection, specifying whether any license plates were detected within each frame, along with inference and processing times. |  
+| **Figure 1.** This output is a structured dataset or table capturing results from a vehicle and license plate detection/tracking pipeline. It logs relevant detection and tracking information frame by frame, exported from my detection system for further analysis. |  
 
 | ![Successful Detection](https://github.com/user-attachments/assets/d03e7788-27b0-4a6d-8198-b290568ebcdf) |  
 | :--: |  
-| **Figure 2.** The code snippet showcases a successful detection of a license plate with its bounding box coordinates, confidence scores, and extracted license plate number using OCR. |  
+| **Figure 2.** This output is a log of object detection results from a YOLO-based model processing video frames for real-time vehicle and license plate detection. |  
 
 | ![Tracking Vehicles](https://github.com/user-attachments/assets/a77ab508-1b9f-4136-9b2e-142b0fed515e) |  
 | :--: |  
-| **Figure 3.** This code snippet demonstrates tracking of detected vehicles and license plates across multiple frames, showing consistent bounding boxes, confidence scores, and evolving OCR results. |  
+| **Figure 3.** TThis output log contains the results of an object detection and tracking pipeline applied to video frames. It logs the detection and tracking results for cars and their associated license plates over multiple frames. |  
 
 
 ---
