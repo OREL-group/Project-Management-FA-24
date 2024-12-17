@@ -13,15 +13,17 @@ The rise in security concerns across critical infrastructures such as gated comm
 
 This project aims to deliver a real-time vehicle detection platform capable of accurately identifying unauthorized vehicles with minimal delay. The system integrates advanced machine learning techniques—YOLO—and efficient algorithms to process video feeds, providing actionable insights for security professionals. The solution prioritizes scalability and adaptability, ensuring seamless deployment across diverse environments and conditions. Ultimately, the project enhances security protocols while maintaining operational efficiency and reducing manual intervention.
 
-| ![Workflow](https://github.com/user-attachments/assets/615d4a47-192c-4fbc-8df1-cc53be64828c) |  
-| :--: |  
-| **Figure 1.** Workflow Diagram. [Store image as an issue](https://github.com/OREL-group/Project-Management/issues/279) or in the local directory. |  
 
 ---
 
 #### Project Goals  
 
 This system must accurately detect and identify unauthorized vehicles by leveraging diverse datasets of American license plates to ensure high precision. Real-time processing capabilities are crucial to minimize latency in live video feeds, enabling timely responses to security threats. The system should be highly scalable to accommodate varying locations, hardware configurations, and environmental conditions. Finally, a user-friendly web interface for displaying real-time detection results is essential to enhance usability for security teams, providing them with a clear and accessible overview of the system's output.
+
+| ![Workflow]() [Copy of Open Canvas (IS 340).pptx (1) (3).pdf](https://github.com/user-attachments/files/18170813/Copy.of.Open.Canvas.IS.340.pptx.1.3.pdf)
+|  
+| :--: |  
+| **Figure 2.** Open Canvas Planning Diagram. |  
 
 ---
 
@@ -49,6 +51,10 @@ These datasets provide varied perspectives, vehicle types, and environmental con
 ### Development Workflow  
 
 The project development follows a structured plan:  
+
+| ![Workflow](https://github.com/user-attachments/assets/615d4a47-192c-4fbc-8df1-cc53be64828c) |  
+| :--: |  
+| **Figure 1.** Workflow Diagram. |  
 
 **1. Initial Setup and Data Collection**  
 - Set up Google Colab with GPU.  
@@ -85,7 +91,11 @@ The system prioritizes real-time performance by processing live camera feeds wit
 
 #### Addressing Technical Debt  
 
-Technical debt in this project primarily arises from tool dependencies and scalability requirements. Frequent updates to tools like YOLO and OpenCV may introduce breaking changes, necessitating regular code reviews and a modular architecture to minimize disruption. The current web interface, built with Flask, may require replacement with a more scalable framework like FastAPI to handle increased traffic. Furthermore, transitioning to cloud solutions for real-time processing will incur data processing costs that require careful financial planning. Mitigating long-term technical debt involves maintaining clear documentation, automating workflows with CI/CD processes, and adopting a microservices architecture for improved flexibility and maintainability.
+Technical debt in this project primarily arises from tool dependencies and scalability requirements. Frequent updates to tools like YOLO and OpenCV may introduce breaking changes, necessitating regular code reviews and a modular architecture to minimize disruption. Lenarduzzi et al. (2021) emphasize that prioritizing technical debt requires balancing maintenance costs, productivity impact, and business value to avoid significant long-term consequences.
+
+Research by Faridoon and Imran (2021) highlights how NoSQL databases excel at managing large-scale, heterogeneous data efficiently, providing fault tolerance, scalability, and replication capabilities crucial for handling dynamic data growth in real-time systems. Such insights emphasize the importance of adopting modular, scalable storage solutions to mitigate long-term technical debt while ensuring high system performance.
+
+Mitigating long-term technical debt involves maintaining clear documentation, automating workflows with CI/CD processes, and adopting a microservices architecture for improved flexibility and maintainability. Journyx (2023) highlights that while project management cannot be fully automated due to its complex decision-making requirements, integrating automation tools significantly enhances productivity by handling routine tasks. Applying this principle, automated pipelines for model retraining, error detection, and integration with the Flask-based web interface will ensure the system remains scalable and adaptable to evolving requirements.
 
 ---
 
@@ -112,7 +122,7 @@ This project delivers a real-time, scalable vehicle detection solution tailored 
 ---
 
 ### References  
-
-Developers, T. (2022). *TensorFlow*. Zenodo.  
-Faridoon, A., & Imran, M. (2021). *Big Data Storage Tools Using NoSQL Databases*. Computing & Informatics.  
-Lenarduzzi, V., et al. (2021). *Technical Debt Prioritization*. Journal of Systems and Software.  
+ 
+Journyx. (2023, May 3). Can project management be automated? Journyx. https://journyx.com/resources/blog/can-project-management-be-automated/
+Faridoon, A., & Imran, M. (2021). Big data storage tools using NoSQL databases and their applications in various domains: A systematic review. Computing and Informatics, 40(3), 489-521. https://doi.org/10.31577/cai_2021_3_489
+Lenarduzzi, V., Besker, T., Taibi, D., & Martini, A., & Arcelli Fontana, F. (2021). A systematic literature review on Technical Debt prioritization: Strategies, processes, factors, and tools. Journal of Systems and Software, 171, 110827. https://doi.org/10.1016/j.jss.2020.110827
