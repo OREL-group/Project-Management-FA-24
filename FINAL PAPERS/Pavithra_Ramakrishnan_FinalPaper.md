@@ -94,7 +94,7 @@ The system prioritizes real-time performance by processing live camera feeds wit
 
 | ![Tracking Vehicles](https://github.com/user-attachments/assets/a77ab508-1b9f-4136-9b2e-142b0fed515e) |  
 | :--: |  
-| **Figure 3.** TThis output log contains the results of an object detection and tracking pipeline applied to video frames. It logs the detection and tracking results for cars and their associated license plates over multiple frames. |  
+| **Figure 3.** This output log contains the results of an object detection and tracking pipeline applied to video frames. It logs the detection and tracking results for cars and their associated license plates over multiple frames. |  
 
 
 ---
