@@ -128,6 +128,9 @@ To sustain and improve the project, the following strategies will be used:
 
 This project delivers a real-time, scalable vehicle detection solution tailored for security applications. By leveraging advanced YOLO models, OpenCV, and a lightweight web interface, the system efficiently identifies unauthorized vehicles, reducing security risks and operational overhead. The open-source approach ensures continuous improvement and adaptability, making it a practical and future-proof solution for access control and monitoring.
 
+The project also reflects an interest in exploring natural language processing (NLP) and gaining hands-on experience with practical applications of technology. While primarily focused on object detection, this project provides opportunities to integrate NLP techniques in areas such as automated reporting, alert generation, or log analysis. The system is built to handle different locations, hardware setups, and environmental conditions, making it adaptable for a wide range of applications like airports, office buildings, and gated communities. By taking an open-source approach, the system can continue to improve over time with contributions from others, ensuring it stays up-to-date and flexible as technology evolves.
+
+Overall, this project is to create a practical and efficient solution for enhancing safety, improving operational efficiency, and exploring advanced technologies like NLP to address the growing need for smarter security systems.
 ---
 
 ### References  
