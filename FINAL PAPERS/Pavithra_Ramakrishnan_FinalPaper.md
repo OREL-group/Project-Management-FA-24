@@ -84,17 +84,18 @@ The system prioritizes real-time performance by processing live camera feeds wit
 
 #### Status
 
-Figure 1:
-<img width="684" alt="Screenshot 2024-12-17 at 2 25 49 PM" src="https://github.com/user-attachments/assets/9b7a00e0-adac-46ae-adad-43c0758beec1" />
-Description: This code identifies the status of object detection, specifying whether any license plates were detected within each frame, along with inference and processing times.
+| ![Status](https://github.com/user-attachments/assets/9b7a00e0-adac-46ae-adad-43c0758beec1) |  
+| :--: |  
+| **Figure 1.** This code identifies the status of object detection, specifying whether any license plates were detected within each frame, along with inference and processing times. |  
 
-Figure 2:
-<img width="641" alt="Screenshot 2024-12-17 at 2 29 01 PM" src="https://github.com/user-attachments/assets/d03e7788-27b0-4a6d-8198-b290568ebcdf" />
-Description: The code snippet showcases a successful detection of a license plate with its bounding box coordinates, confidence scores, and extracted license plate number using OCR.
+| ![Successful Detection](https://github.com/user-attachments/assets/d03e7788-27b0-4a6d-8198-b290568ebcdf) |  
+| :--: |  
+| **Figure 2.** The code snippet showcases a successful detection of a license plate with its bounding box coordinates, confidence scores, and extracted license plate number using OCR. |  
 
-Figure 3:
-<img width="641" alt="Screenshot 2024-12-17 at 2 30 38 PM" src="https://github.com/user-attachments/assets/a77ab508-1b9f-4136-9b2e-142b0fed515e" />
-Description: This code snippet demonstrates tracking of detected vehicles and license plates across multiple frames, showing consistent bounding boxes, confidence scores, and evolving OCR results.
+| ![Tracking Vehicles](https://github.com/user-attachments/assets/a77ab508-1b9f-4136-9b2e-142b0fed515e) |  
+| :--: |  
+| **Figure 3.** This code snippet demonstrates tracking of detected vehicles and license plates across multiple frames, showing consistent bounding boxes, confidence scores, and evolving OCR results. |  
+
 
 ---
 
