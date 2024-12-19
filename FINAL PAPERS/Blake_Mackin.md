@@ -143,7 +143,7 @@ not account for hardware degradation like hard drive failure or disaster, but ev
 options, as long as I have a functioning backup system, it will be substantially cheaper than cloud
 hosting. The local technical stack will be as follows:
 
-IMAGE HERE
+| ![](../finalproject_images/virtualized_network_diagram.png) | 
 
 The network elements in red are those that are planned or not completely implemented at the
 moment. All of the virtual servers will be hosted on an HPE ProLiant DL360 Gen10 server with dual
@@ -225,7 +225,7 @@ issue of funding, as cloud hosting can be expensive.
   An example of a process used in the project is how new internal team members will be
 onboarded:
 
-IMAGE HERE
+| ![](../finalproject_images/Workflow.PNG) | 
 
   To ensure maximum security, we will avoid using shared accounts. When a new team member
 is added to the group, they will email the project owner their role and the systems that they will need
