@@ -1,5 +1,5 @@
 ## MOMENTUM
-Matthew Hurh, FA24
+Matthew Hurh, FA24 https://github.com/mhurh2
 
 
 ### Abstract
@@ -30,7 +30,7 @@ Momentum is postured to serve motivated individuals who want to find time in the
 ### Timeline
 Momentum will follow a systematic workflow to guarantee development and growth of the platform. In this workflow, there are four stages that will be cycled through to ensure that Momentum remains a dynamic viable resource. Below is a visualization of how the workflow will operate:
 
-![image]
+![image](https://github.com/OREL-group/Project-Management/blob/main/finalproject_images/Momentum%20Timeline.png)
 
 **Development**: The Development Stage will include a couple of different steps that will lay the foundation for the platform, including selecting the focus groups, surveying for data, selecting fitness programs, selecting dietary planning, and creating the base app for the platform. During this stage, the project will begin to gain direction and purpose as it starts setting directives and project scope. Milestones will be established and essential resources will be gathered to support project success. Important decisions with technology stacks, UI/UX design and data security will be made during this stage to ensure that the app is robust and scalable for future development.
 
